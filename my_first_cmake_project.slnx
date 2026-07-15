@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="my_first_cmake_project.vcxproj" Id="92ac38de-98f7-4f47-9bc0-4cde81ed519b" />
+</Solution>
